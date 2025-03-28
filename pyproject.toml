@@ -24,7 +24,6 @@ dependencies = [
     "protobuf",
     "matplotlib",
     "ipywidgets",
-    "plotnine",
     "huggingface-hub",
     "numpy",
     "fsspec",
